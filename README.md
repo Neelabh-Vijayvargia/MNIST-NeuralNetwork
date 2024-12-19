@@ -9,9 +9,9 @@ This dataset contains 60,000 training images, and 10,000 testing images of handw
 Network is trained through backpropagation, and is further optimized through Adap optimizer and Leaky ReLU and Softmax acitivation
 
 ## Key Features
-- **Neural Network Architecture**: Built from scratch using Numpy, with Leaky ReLU activation and Softmax for output.
+- **Neural Network Architecture**: Simple 2-Layer Architecture. Built from scratch using Numpy, with Leaky ReLU activation and Softmax for output.
 - **Optimization**: Utilizes the Adam optimizer and gradient descent to improve training efficiency.
-- **Hyperparameter Tuning**: Experimented with different learning rates, number of layers, and neurons to achieve optimal performance.
+- **Hyperparameter Tuning**: Experimented with different learning rates to determine best accuracy
 - **Model Performance**: Achieved 93% accuracy on the MNIST test set.
 
 ## Technologies Used
